@@ -1,0 +1,8 @@
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P1-CL-ChiaDeTri\ChiaDeTri\CDT_MergeSort\bin\Debug\CDT_MergeSort.exe.config
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P1-CL-ChiaDeTri\ChiaDeTri\CDT_MergeSort\bin\Debug\CDT_MergeSort.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P1-CL-ChiaDeTri\ChiaDeTri\CDT_MergeSort\bin\Debug\CDT_MergeSort.pdb
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P1-CL-ChiaDeTri\ChiaDeTri\CDT_MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P1-CL-ChiaDeTri\ChiaDeTri\CDT_MergeSort\obj\Debug\CDT_MergeSort.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P1-CL-ChiaDeTri\ChiaDeTri\CDT_MergeSort\obj\Debug\CDT_MergeSort.pdb
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P1-CL-ChiaDeTri\ChiaDeTri\CDT_MergeSort\obj\Debug\MergeSort.csproj.AssemblyReference.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P1-CL-ChiaDeTri\ChiaDeTri\CDT_MergeSort\obj\Debug\MergeSort.csproj.SuggestedBindingRedirects.cache

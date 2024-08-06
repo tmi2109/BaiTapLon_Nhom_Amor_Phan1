@@ -1,0 +1,8 @@
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P1-CL-ChiaDeTri\ChiaDeTri\Nhan2SoNguyenLon\obj\Debug\Nhan2SoNguyenLon.csproj.CoreCompileInputs.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P1-CL-ChiaDeTri\ChiaDeTri\Nhan2SoNguyenLon\bin\Debug\Nhan2SoNguyenLon.exe.config
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P1-CL-ChiaDeTri\ChiaDeTri\Nhan2SoNguyenLon\bin\Debug\Nhan2SoNguyenLon.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P1-CL-ChiaDeTri\ChiaDeTri\Nhan2SoNguyenLon\bin\Debug\Nhan2SoNguyenLon.pdb
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P1-CL-ChiaDeTri\ChiaDeTri\Nhan2SoNguyenLon\obj\Debug\Nhan2SoNguyenLon.csproj.AssemblyReference.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P1-CL-ChiaDeTri\ChiaDeTri\Nhan2SoNguyenLon\obj\Debug\Nhan2SoNguyenLon.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P1-CL-ChiaDeTri\ChiaDeTri\Nhan2SoNguyenLon\obj\Debug\Nhan2SoNguyenLon.pdb
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P1-CL-ChiaDeTri\ChiaDeTri\Nhan2SoNguyenLon\obj\Debug\Nhan2SoNguyenLon.csproj.SuggestedBindingRedirects.cache

@@ -1,0 +1,7 @@
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P1-CL-ChiaDeTri\ChiaDeTri\TimKiemNhiPhan\bin\Debug\TimKiemNhiPhan.exe.config
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P1-CL-ChiaDeTri\ChiaDeTri\TimKiemNhiPhan\bin\Debug\TimKiemNhiPhan.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P1-CL-ChiaDeTri\ChiaDeTri\TimKiemNhiPhan\bin\Debug\TimKiemNhiPhan.pdb
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P1-CL-ChiaDeTri\ChiaDeTri\TimKiemNhiPhan\obj\Debug\TimKiemNhiPhan.csproj.AssemblyReference.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P1-CL-ChiaDeTri\ChiaDeTri\TimKiemNhiPhan\obj\Debug\TimKiemNhiPhan.csproj.CoreCompileInputs.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P1-CL-ChiaDeTri\ChiaDeTri\TimKiemNhiPhan\obj\Debug\TimKiemNhiPhan.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P1-CL-ChiaDeTri\ChiaDeTri\TimKiemNhiPhan\obj\Debug\TimKiemNhiPhan.pdb
